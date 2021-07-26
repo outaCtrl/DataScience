@@ -12,5 +12,10 @@
 
 ### Notebook de Procesamiento de Datasets: [Procesamiento.ipynb](https://github.com/outaCtrl/DataScience/blob/main/Procesamiento.ipynb)
 
-#### Dataset generado por el notebook Procesamiento: [Dataset-Ok](https://bit.ly/3y6sAEP) 
+#### Dataset generado por el notebook Procesamiento: [Dataset-Ok](https://drive.google.com/drive/folders/1-CJ42rhqKusM5jHnBBIXl6j0SmEEFtlv?usp=sharing) 
 
+<br>
+
+#### Dataset original:[Dataset Original](https://drive.google.com/drive/folders/1d0lIloUEPgxxzFVKsJ3OGhO8KNEjdmdq?usp=sharing)
+
+#### Licencia dataset: [Licencia](https://docs.opendata.aws/amazon-reviews-ml/license.txt)
