@@ -10,7 +10,7 @@
 
 ### Notebook de trabajo: [DS_Proyecto_03_NLP.ipynb](https://github.com/outaCtrl/DataScience/blob/main/DS_Proyecto_03_NLP.ipynb)
 
-### Notebook de Procesamiento de Datasets: [Procesamiento.ipynb](https://github.com/outaCtrl/DataScience/blob/main/Procesamiento.ipynb)
+### Notebook de Procesamiento de Dataset: [Procesamiento.ipynb](https://github.com/outaCtrl/DataScience/blob/main/Procesamiento.ipynb)
 
 #### Dataset generado por el notebook Procesamiento: [Dataset-Ok](https://drive.google.com/drive/folders/1-CJ42rhqKusM5jHnBBIXl6j0SmEEFtlv?usp=sharing) 
 
