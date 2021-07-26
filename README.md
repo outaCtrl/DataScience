@@ -12,5 +12,5 @@
 
 ### Notebook de Procesamiento de Datasets: [Procesamiento.ipynb](https://github.com/outaCtrl/DataScience/blob/main/Procesamiento.ipynb)
 
-#### Dataset generado por el notebook Procesamiento:[Dataset-Ok](https://bit.ly/3y6sAEP) 
+#### Dataset generado por el notebook Procesamiento: [Dataset-Ok](https://bit.ly/3y6sAEP) 
 
