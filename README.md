@@ -1,7 +1,7 @@
 
 # Proyecto 03 - Procesamiento del Lenguaje Natural
 
-## Alcance: <br>
+### Alcance: <br>
 
   ##### Se busca predecir la valoración (Puntaje en estrellas de 1 a 5) que un usuario otorgará a un producto, a partir de la reseña realizada.
 
