@@ -1,8 +1,9 @@
 
 # Proyecto 03 - Procesamiento del Lenguaje Natural
 
-## Alcance:
-  ##### - Se busca predecir la valoración (Puntaje en estrellas de 1 a 5) que un usuario otorgará a un producto, a partir de la reseña realizada.
+## Alcance: <br>
+
+  ##### Se busca predecir la valoración (Puntaje en estrellas de 1 a 5) que un usuario otorgará a un producto, a partir de la reseña realizada.
 
 ### Notebook de trabajo: [DS_Proyecto_03_NLP.ipynb](https://github.com/outaCtrl/DataScience/blob/main/DS_Proyecto_03_NLP.ipynb)
 
