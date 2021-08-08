@@ -10,10 +10,4 @@
 
 ### Notebook de trabajo: [](https://github.com/outaCtrl/DataScience/blob/main/DS_Proyecto_03_NLP.ipynb)
 
-### Notebook Proyecto 2: [](https://github.com/outaCtrl/DataScience/blob/main/Procesamiento.ipynb)
-
-
-<br>
-
-##### Dataset original: [Dataset Original](https://drive.google.com/drive/folders/1d0lIloUEPgxxzFVKsJ3OGhO8KNEjdmdq?usp=sharing)
-
+### Notebook Proyecto 2: [DS_Proyecto_02.ipynb](https://github.com/outaCtrl/DataScience/blob/main/DS_Proyecto_02.ipynb)
