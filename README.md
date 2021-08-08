@@ -3,7 +3,7 @@
 
 ### Alcance 
 
-##### En este último Sprint me propuse como desafio, evaluar un Modelo de Machine Learning para calcular el valor de cualquier tipo de inmueble, teniendo en cuenta su ubicacion geografica.
+#### En este último Sprint me propuse como desafio, evaluar un Modelo de Machine Learning para calcular el valor de cualquier tipo de inmueble, teniendo en cuenta su ubicacion geografica.
 
 <br>
 <br>
